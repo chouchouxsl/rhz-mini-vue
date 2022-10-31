@@ -1,0 +1,22 @@
+{
+  "name": "@rhz-mini-vue/reactivity",
+  "version": "1.0.0",
+  "description": "@rhz-mini-vue/reactivity",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "buildOptions": {
+    "name": "VueReactivity",
+    "formats": [
+      "esm-bundler",
+      "cjs",
+      "global"
+    ]
+  },
+  "dependencies": {
+    "@rhz-mini-vue/shared": "workspace:^1.0.0"
+  }
+}

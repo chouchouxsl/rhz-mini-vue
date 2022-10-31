@@ -1,0 +1,18 @@
+{
+  "name": "@rhz-mini-vue/shared",
+  "version": "1.0.0",
+  "description": "@rhz-mini-vue/shared",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "buildOptions": {
+    "formats": [
+      "esm-bundler",
+      "cjs"
+    ]
+  },
+  "dependencies": {}
+}
