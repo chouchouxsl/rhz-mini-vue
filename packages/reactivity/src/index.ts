@@ -1,3 +1,3 @@
-import { add } from '@rhz-mini-vue/shared'
-
-console.log('🤪 add() >>:', add())
+/* 批量导出 */
+export { effect ,ReactiveEffect} from "./effect";
+export { reactive } from './reactive';
